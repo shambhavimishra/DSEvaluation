@@ -1,7 +1,7 @@
 # DSEvaluation
 
 ## Solution for Question 1
-The solution for question 1 is in Google Colab. The solution contains two approach
+The solution for question 1 is in (Google Colab)['https://github.com/shambhavimishra/DSEvaluation/blob/main/question1_solution.ipynb']. The solution contains two approach
 - Without using regular expressions
 - With regular expressions
 
